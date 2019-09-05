@@ -1,0 +1,2 @@
+49.372313997431405=-123.09974670410156=Hike=I want to Hike the Grouse Grind=2019-08-30=False=Grouse Grind
+49.300876370266764=-123.14331590643297=Bike=I want to ride the Sea Wall in under 1 hour. =2019-08-31=False=Stanley Park Bike Ride
